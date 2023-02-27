@@ -121,7 +121,7 @@ In the architecture, you can configure your infrastructure using the followings,
   - Route 53 
 
     - Connection must be secure (HTTPS). 
-
+  
     - Your hostname can be used to publish website.
 
     - Failover routing policy should be set while publishing application
